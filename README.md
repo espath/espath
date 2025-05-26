@@ -19,7 +19,6 @@ This website is powered by **Jekyll** and the **Minimal Mistakes** theme, and ho
 
 ## License
 
-<<<<<<< HEAD
 Content © Luis Espath. Source code based on MIT-licensed Jekyll themes.
 
 /espath
