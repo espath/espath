@@ -1,6 +1,8 @@
 ---
 layout: home
 title: "Luis Espath"
+excerpt: "Assistant Professor of Applied Mathematics. Specializing in Continuum Mechanics, Bayesian Inference, and Machine Learning."
+author_profile: true
 ---
 
 Welcome! I’m an Assistant Professor of Applied Mathematics at the University of Nottingham.  
