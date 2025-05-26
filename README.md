@@ -19,6 +19,7 @@ This website is powered by **Jekyll** and the **Minimal Mistakes** theme, and ho
 
 ## License
 
+<<<<<<< HEAD
 Content © Luis Espath. Source code based on MIT-licensed Jekyll themes.
 
 /espath
@@ -36,3 +37,5 @@ Content © Luis Espath. Source code based on MIT-licensed Jekyll themes.
 │   ├── teaching.md
 │
 └── _layouts/                # None at the moment
+=======
+Content © Luis Espath. Source code based on MIT-licensed Jekyll themes.

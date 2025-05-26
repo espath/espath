@@ -1,0 +1,44 @@
+title: "Luis Espath"
+author: "Luis Espath"
+email: "luis.espath@nottingham.ac.uk"
+description: "Assistant Professor of Applied Mathematics"
+baseurl: "" # no subpath as I am using https://USERNAME.github.io
+url: "https://espath.github.io"
+github_username: espath
+google_scholar: https://scholar.google.com/citations?user=5DOQcG8AAAAJ&hl=en
+
+theme: minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+
+# Navigation menu
+nav:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Research"
+    url: /research/
+  - title: "Projects"
+    url: /projects/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Book"
+    url: /book/
+
+markdown: kramdown
