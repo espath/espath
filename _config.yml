@@ -12,18 +12,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: page
-
 # Navigation menu
 nav:
   - title: "Home"
