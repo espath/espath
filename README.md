@@ -1,23 +1,19 @@
 # Luis Espath – Academic Website
 
-This is the source code for my personal academic website, hosted at [espath.github.io](https://espath.github.io).
+This is the source for my personal academic site, hosted at [espath.github.io](https://espath.github.io).
 
-The website includes:
-- **[CV](https://espath.github.io/cv/)** – Education, academic positions, and selected roles.
-- **[Publications](https://espath.github.io/publications/)** – Full list of peer-reviewed journal articles.
-- **[Book](https://espath.github.io/book/)** – My monograph: *Mechanics & Geometry of Enriched Continua*.
-- **[Projects](https://espath.github.io/projects/)** – A somewhat list of ongoing projects.
-- **[Teaching](https://espath.github.io/teaching/)** – Courses taught at the University of Nottingham and PUCRS.
-- **[Research](https://espath.github.io/research/)** – Research areas and directions.
+It includes:
+- [CV](https://espath.github.io/cv/)
+- [Publications](https://espath.github.io/publications/)
+- [Book](https://espath.github.io/book/)
+- [Teaching](https://espath.github.io/teaching/)
+- [Research](https://espath.github.io/research/)
+- [Projects](https://espath.github.io/projects/)
 
-## About
+---
 
-I am an Assistant Professor in Applied Mathematics at the University of Nottingham, UK. I serve as Associate Editor for *Statistics and Computing* (Springer) and Course Director of the BSc in Statistics.
+### About Me
 
-## Technical Details
+I’m an Assistant Professor in Applied Mathematics at the University of Nottingham. I serve as Associate Editor for *Statistics and Computing* and as Course Director of the BSc in Statistics.
 
-This website is powered by **Jekyll** and the **Minimal Mistakes** theme, and hosted via **GitHub Pages**.
-
-## License
-
-Content © Luis Espath. Source code based on MIT-licensed Jekyll themes.
+This site is built with Jekyll using the Minimal Mistakes theme and deployed via GitHub Pages.
