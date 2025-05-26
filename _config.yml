@@ -17,6 +17,13 @@ collections:
     output: true
     permalink: /:path/
 
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
 # Navigation menu
 nav:
   - title: "Home"
