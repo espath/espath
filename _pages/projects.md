@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Ongoing Projects"
 permalink: /projects/
 ---
