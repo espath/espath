@@ -6,6 +6,7 @@ The website includes:
 - **[CV](https://espath.github.io/cv/)** – Education, academic positions, and selected roles.
 - **[Publications](https://espath.github.io/publications/)** – Full list of peer-reviewed journal articles.
 - **[Book](https://espath.github.io/book/)** – My monograph: *Mechanics & Geometry of Enriched Continua*.
+- **[Projects](https://espath.github.io/projects/)** – A somewhat list of ongoing projects.
 - **[Teaching](https://espath.github.io/teaching/)** – Courses taught at the University of Nottingham and PUCRS.
 - **[Research](https://espath.github.io/research/)** – Research areas and directions.
 
@@ -19,22 +20,4 @@ This website is powered by **Jekyll** and the **Minimal Mistakes** theme, and ho
 
 ## License
 
-Content © Luis Espath. Source code based on MIT-licensed Jekyll themes.
-
-/espath
-│
-├── _config.yml              # Site configuration
-├── index.md                 # Homepage
-├── README.md                # Project readme
-│
-├── _pages/                  # Custom subdirectory for pages
-│   ├── book.md
-│   ├── cv.md
-│   ├── projects.md
-│   ├── publications.md
-│   ├── research.md
-│   ├── teaching.md
-│
-└── _layouts/                # None at the moment
-=======
 Content © Luis Espath. Source code based on MIT-licensed Jekyll themes.
